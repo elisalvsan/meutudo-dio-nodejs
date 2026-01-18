@@ -1,5 +1,7 @@
 # meutudo - Mobile Developer
 
+### Professor: [Felipe Aguiar](https://github.com/felipeAguiarCode)
+
 ## Sobre
 
 - **Descrição:** Torne-se um desenvolvedor mobile full stack! Domine a stack fundamental do bom desenvolvedor mobile de ponta a ponta com Node.js, React Native e JavaScript/TypeScript.
